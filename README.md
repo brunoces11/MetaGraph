@@ -1,6 +1,6 @@
-# **SmartGraph Chunking (SGC)**
+# **Agentic Graph Chunking (AGC)**
 
-**SmartGraph Chunking (SGC)** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
+**AgenticGraph Chunking (AGC)** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
 
 SGC combines, in a single step:
 
@@ -14,7 +14,7 @@ This integration forms a deterministic preprocessing flow that can substantially
 
 ---
 
-## **Why SGC matters**
+## **Why AGC matters**
 
 SGC introduces a **new paradigm of structured semantic preprocessing**.  
 While traditional methods simply “cut text,” SGC **interprets, organizes, enriches, and structures** the document before chunking.
