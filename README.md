@@ -2,7 +2,7 @@
 
 **metaGraph Chunking** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
 
-SGC combines, in a single step:
+MetaGraph combines, in a single step:
 
 - **Ontology-based structuring** (hierarchical and semantic meaning)  
 - **GraphRAG-inspired contextual relations**  
