@@ -1,6 +1,6 @@
-# **Agentic Graph Chunking (AGC)**
+# **MetaGraph Chunking**
 
-**AgenticGraph Chunking (AGC)** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
+**metaGraph Chunking** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
 
 SGC combines, in a single step:
 
@@ -14,7 +14,7 @@ This integration forms a deterministic preprocessing flow that can substantially
 
 ---
 
-## **Why AGC matters**
+## **Why Metagraph matters**
 
 SGC introduces a **new paradigm of structured semantic preprocessing**.  
 While traditional methods simply “cut text,” SGC **interprets, organizes, enriches, and structures** the document before chunking.
@@ -53,9 +53,4 @@ For systems that depend on high-quality segmentation, SGC can become a meaningfu
 - ✔ Output ready for any RAG pipeline  
 - ✔ Easily adaptable to any domain  
 
----
 
-## **CLI (sgc-cli)**
-
-```bash
-sgc process path/to/document.txt
